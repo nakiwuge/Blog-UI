@@ -1,0 +1,18 @@
+.posts{
+ width:100%;
+}
+
+.post-card{
+    background-color: white;
+    width:40%;
+    margin: 2% 20% 1% 30%;
+}
+
+.post-card>h5{
+    padding: 10px 0 5px 10px;
+    font-size: 20px;
+}
+
+.post-card>p{
+    padding: 2px 0 5px 10px;
+}

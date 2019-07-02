@@ -1,0 +1,60 @@
+.add-post{
+    width:100%;
+}
+
+form{
+    margin-top: 5%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: white;
+
+}
+.heading{
+    font-size: 20px;
+    margin: 3% 20% 0 40%;
+    font-weight: bold;
+}
+.title{
+    height: 30px;
+    width: 95%;
+
+}
+.form-content{
+    margin-left:2%;
+    margin-bottom:2%;
+
+}
+
+.body{
+    height: 80px;
+
+}
+label>input{
+    width: 95%;
+    margin-top:2%;
+    border: none;
+    background-color: rgba(221, 217, 217, 0.219);
+    outline: none;
+
+}
+
+form>button{
+    width: 100px;
+    height: 30px;
+
+    margin-top:2%;
+    background-color: #A5A329;
+    color: white;
+    margin-bottom:2%;
+    margin-left:2%;
+
+}
+label>textarea{
+    width: 95%;
+
+    border: none;
+    margin-top:2%;
+    background-color: rgba(221, 217, 217, 0.219);
+
+}
+

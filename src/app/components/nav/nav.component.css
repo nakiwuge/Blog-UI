@@ -1,0 +1,37 @@
+header {
+    background-color: #a5a32a;
+
+}
+.container {
+    width: 80%;
+    display: grid;
+    padding: 1.3em;
+    grid-template-columns: 30% auto;
+}
+.logo{
+    font-weight: bold;
+}
+nav{
+    justify-self: right;
+}
+ul{
+  list-style-type: none;
+   margin:0;
+   padding: 0;
+    display: flex;
+}
+ul.li{
+    float:left;
+}
+a{
+    padding-left: 1em;
+    padding-right: 1em;
+
+    text-transform: uppercase;
+    color: white;
+
+}
+a:hover{
+    background-color: #8a896275;
+
+}
